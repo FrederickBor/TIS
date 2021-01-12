@@ -6,4 +6,4 @@ Dichos efectos se deben conocer ya que algunos pueden afactar directamente en el
 
 # Licencia
 
-El codigo presente en este repositorio se encuentra bajo una licencia MIT, puede ver el fichero [LICENSE](LICENSE) Patra mas información.
+El código presente en este repositorio se encuentra bajo una licencia MIT, puede ver el fichero [LICENSE](LICENSE) para más información.
