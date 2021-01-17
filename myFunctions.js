@@ -65,7 +65,7 @@ $( document ).ready(function() {
                 <p class='card-text'>` + noticias[value].titulo + `</p>
                 <div class='d-flex justify-content-between align-items-center'>
                 <div class='btn-group'>
-                    <a href='` + noticias[value].url + `' class='btn btn-outline-info' role='button'>Ver noticia</a>
+                    <a target='_blank' href='` + noticias[value].url + `' class='btn btn-outline-info' role='button'>Ver noticia</a>
                 </div>
                 </div>
             </div>
