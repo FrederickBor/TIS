@@ -62,11 +62,9 @@ $( document ).ready(function() {
         <div class='col py-3'>
             <div class='card shadow-sm'>  
             <div class='card-body'>
-                <p class='card-text'>` + noticias[value].titulo + `</p>
-                <div class='d-flex justify-content-between align-items-center'>
-                <div class='btn-group'>
+                <p class='card-text text-center'>` + noticias[value].titulo + `</p>
+                <div class='text-center'>
                     <a target='_blank' href='` + noticias[value].url + `' class='btn btn-outline-info' role='button'>Ver noticia</a>
-                </div>
                 </div>
             </div>
             </div>
